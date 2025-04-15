@@ -15,11 +15,11 @@
 
 A platform connecting University of Washington computing students and alumni to foster professional connections and knowledge sharing within the computing industry.
 
-## Project Overview
+🧭 ## Project Overview
 
 UCAN aims to create a dedicated network that bridges the gap between current UW computing students and industry professionals who graduated from UW. Unlike existing alumni networks focused primarily on fundraising, UCAN is designed to facilitate meaningful career-related conversations and mentorship opportunities.
 
-### Why UCAN?
+💡 ### Why UCAN?
 
 While the Allen School maintains an alumni network, its primary focus appears to be fundraising and outreach rather than creating an online community. UCAN addresses this gap by:
 
@@ -28,7 +28,7 @@ While the Allen School maintains an alumni network, its primary focus appears to
 - Facilitating knowledge sharing about job search, interview processes, and industry expectations
 - Creating a supportive community similar to successful networks like USC's Trojan Network
 
-## Features
+✨ ## Features
 
 - **LinkedIn Integration**: A LinkedIn group serves as the front-facing platform for the network
 - **Profile System**: Optional user profiles to showcase experience and interests
@@ -36,7 +36,7 @@ While the Allen School maintains an alumni network, its primary focus appears to
 - **Discussion Forum**: Q&A section for students to ask specific career-related questions
 - **Newsletter/Notification System**: Keeps members informed about events and opportunities
 
-## Technical Stack
+🛠️ ## Technical Stack
 
 ### Frontend
 - **Framework**: React
@@ -54,13 +54,13 @@ While the Allen School maintains an alumni network, its primary focus appears to
 - **IaC**: AWS CDK
 - **CI/CD**: GitHub Actions
 
-## Development Approach
+🧱 ## Development Approach
 
 - **Architecture**: Modular monolith with Domain-Driven Design inspiration
 - **Methodology**: Scrum with 1-week sprints
 - **Communication**: Communal style
 
-## Project Timeline
+🗓️ ## Project Timeline
 
 1. Initial setup of LinkedIn group and basic web application
 2. Development of core features (profiles, blogs, forums)
@@ -68,7 +68,7 @@ While the Allen School maintains an alumni network, its primary focus appears to
 4. Testing and refinement
 5. Community outreach and growth
 
-## Team
+👥 ## Team
 
 - Ryan Huang
 - Elina Olfat
@@ -76,7 +76,7 @@ While the Allen School maintains an alumni network, its primary focus appears to
 - Iman Nilforoush
 - Andy Nguyen
 
-## Getting Started
+🚀 ## Getting Started
 
 Links to our frontend and backend repositories:
 
@@ -84,7 +84,7 @@ Links to our frontend and backend repositories:
 
 [ucan-backend](https://github.com/ucan-app/ucan-backend)
 
-## Contributing
+🤝 ## Contributing
 
 We welcome contributions from UW students and alumni interested in improving this platform. Please see our [contributing guidelines](CONTRIBUTING.md) for more information.
 
