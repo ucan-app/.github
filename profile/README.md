@@ -79,7 +79,9 @@ While the Allen School maintains an alumni network, its primary focus appears to
 ## Getting Started
 
 Links to our frontend and backend repositories:
+
 [ucan-frontend](https://github.com/ucan-app/ucan-frontend)
+
 [ucan-backend](https://github.com/ucan-app/ucan-backend)
 
 ## Contributing
