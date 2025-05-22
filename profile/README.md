@@ -84,6 +84,14 @@ Links to our frontend and backend repositories:
 
 [ucan-backend](https://github.com/ucan-app/ucan-backend)
 
+[user manual](https://github.com/ucan-app/.github/blob/main/user-manual.md)
+
+## 💻 Developer Guidelines
+
+[Frontend guidelines](https://github.com/ucan-app/.github/blob/main/frontend-developer-guidelines.md)
+
+[Backend guidelines](https://github.com/ucan-app/.github/blob/main/backend-developer-guidelines.md)
+
 ## 🤝 Contributing
 
 We welcome contributions from UW students and alumni interested in improving this platform. Please see our [contributing guidelines](CONTRIBUTING.md) for more information.
