@@ -84,13 +84,15 @@ Links to our frontend and backend repositories:
 
 [ucan-backend](https://github.com/ucan-app/ucan-backend)
 
-[user manual](https://github.com/ucan-app/.github/blob/main/user-manual.md)
+## 📖 User Manual
+
+[User Manual](https://github.com/ucan-app/.github/blob/main/user-manual.md)
 
 ## 💻 Developer Guidelines
 
-[Frontend guidelines](https://github.com/ucan-app/.github/blob/main/frontend-developer-guidelines.md)
+[Frontend Guidelines](https://github.com/ucan-app/.github/blob/main/frontend-developer-guidelines.md)
 
-[Backend guidelines](https://github.com/ucan-app/.github/blob/main/backend-developer-guidelines.md)
+[Backend Guidelines](https://github.com/ucan-app/.github/blob/main/backend-developer-guidelines.md)
 
 ## 🤝 Contributing
 
