@@ -18,6 +18,9 @@ UCAN aims to create a dedicated network that bridges the gap between current UW 
 
 ## How to Use Software:
 
+Please follow the below steps on how to use and navigate through our webapp.
+Note that there are certain features that haven't been fully implemented yet, which we have included as "work in progress" below.
+
 ### Creating an account:
 
 Having an account is the best way to use our website, but browsing without one is fine as well.
@@ -37,7 +40,7 @@ Having an account is the best way to use our website, but browsing without one i
   Badges (work in progress)
   First and last name (work in progress)
 
-- Users will be able to access other users profiles’ by clicking on their username in the posts. (work in progress)
+- Users will be able to access other users profiles’ by clicking on their username in the posts.
 
 ### Creating and viewing posts:
 
@@ -47,10 +50,10 @@ Having an account is the best way to use our website, but browsing without one i
 - Individual posts can be viewed in their entirety by clicking on them, which will display the list of comments and comment replies associated with the post.
 - Users will be able to view the posts they’ve made by navigating to the user icon. (work in progress)
 
-### Searching and interacting with posts: (work in progress)
+### Searching and interacting with posts:
 
 - Like or dislike posts and comments based on how helpful they are.
-- Use the search bar to find posts with certain keywords or with a certain tag.
+- Use the search bar to find posts with certain keywords or with a certain tag. (work in progress)
 - Add comments to posts you’d wish to ask questions or engage with in any way.
 - Users will be able to reply to comments, however only one layer is allowed. (no nested replies)
 
