@@ -33,12 +33,12 @@ Having an account is the best way to use our website, but browsing without one i
 
 - Users are able to edit their profile once they have logged into their account.
 - The default profile only stores the username which is unchangeable, but additional information can be provided and displayed on the user’s profile if the user chooses to edit their profile. These include:
-  A short bio
-  Graduation year
-  Linkedin URL
-  Personal websites
-  Badges (work in progress)
-  First and last name (work in progress)
+  - A short bio
+  - Graduation year
+  - Linkedin URL
+  - Personal websites
+  - Badges (work in progress)
+  - First and last name (work in progress)
 
 - Users will be able to access other users profiles’ by clicking on their username in the posts.
 
