@@ -90,9 +90,9 @@ Links to our frontend and backend repositories:
 
 ## 💻 Developer Guidelines
 
-[Frontend Guidelines](https://github.com/ucan-app/.github/blob/main/frontend-developer-guidelines.md)
+[Frontend Guidelines](https://github.com/ucan-app/ucan-frontend/blob/main/frontend-developer-guidelines.md)
 
-[Backend Guidelines](https://github.com/ucan-app/.github/blob/main/backend-developer-guidelines.md)
+[Backend Guidelines](https://github.com/ucan-app/ucan-backend/blob/main/backend-developer-guidelines.md)
 
 ## 🤝 Contributing
 
