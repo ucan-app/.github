@@ -19,14 +19,13 @@ UCAN aims to create a dedicated network that bridges the gap between current UW 
 ## How to Use Software:
 
 Please follow the below steps on how to use and navigate through our webapp.
-Note that there are certain features that haven't been fully implemented yet, which we have included as "work in progress" below.
 
 ### Creating an account:
 
 Having an account is the best way to use our website, but browsing without one is fine as well.
 
 - Users can create an account by navigating to the user icon at the top-right corner of the page and signing up. They must then login using their credentials to gain access to their account.
-- The account making process will require email verification of the base email address used. (work in progress)
+- The account making process will require email verification of the base email address used.
 - Afterwards, it’s recommended to add a badge that indicates if you’re a UW student or Alumni and your current company name through further email verification. This adds credibility to the posts you make.
 
 ### Editing profile:
@@ -38,14 +37,12 @@ Having an account is the best way to use our website, but browsing without one i
   - Linkedin URL
   - Personal websites
   - Badges
-  - First and last name (work in progress)
 
 - Users will be able to access other users profiles’ by clicking on their username in the posts.
 
 ### Creating and viewing posts:
 
 - Create a post with a title and content.
-- Add tags to categorize your post based on its topic. (work in progress)
 - A preview of all posts can be viewed on the homepage in the form of a forum.
 - Individual posts can be viewed in their entirety by clicking on them, which will display the list of comments and comment replies associated with the post.
 - Users will be able to view the posts they’ve made by navigating to their profile through the user icon.
@@ -53,7 +50,7 @@ Having an account is the best way to use our website, but browsing without one i
 ### Searching and interacting with posts:
 
 - Like or dislike posts and comments based on how helpful they are.
-- Use the search bar to find posts with certain keywords or with a certain tag. (search by tags or through comments/replies is still a work in progress)
+- Use the search bar to find posts and users with certain keywords.
 - Add comments to posts you’d wish to ask questions or engage with in any way.
 - Users will be able to reply to comments, however only one layer is allowed. (no nested replies)
 
